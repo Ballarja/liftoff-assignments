@@ -8,7 +8,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-Inventory Managment app
+A system to track items, including the quantity on hand, that will allow users to search and filter for specific items by either part number, serial number, name or other various specifications. This will allow users to locate the items within the warehouse/store.
+
+
+### Features
+Include Features here
+Encryption
+Authorization
+CRUD
+
 -the app will have CRUD and a search 
 -user authentication with login validation
 -adding name, category, and location fields
@@ -25,11 +33,6 @@ Inventory Managment app
   --- basic add form includes inventory Title, Name of item, Type, Quantity, option to add new criteria
 Stretch goal would be adding a balance sheet
 
-### Features
-Include Features here
-Encryption
-Authorization
-CRUD
 ### Technologies
 
 Languages being used
