@@ -17,6 +17,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 ![SignUp_Page_Mockup_Snippet](https://user-images.githubusercontent.com/54514754/234161132-d1a334d1-b939-4bd6-ad0b-b2c3f5cd0982.PNG)
 ![Inventory_Page_Mockup_Snippet](https://user-images.githubusercontent.com/54514754/234161142-5a8d666e-924b-40b2-9bac-62241d89a7e5.PNG)
 ![Dashboard_Mockup_snippet](https://user-images.githubusercontent.com/54514754/234161151-ac2af720-c77b-4994-84ec-24944409c18d.PNG)
+![Inventory_Project_wireframe](https://user-images.githubusercontent.com/54514754/234436162-50dcf384-9b6d-400d-9527-9d806703e704.PNG)
 
 ### Project Tracker
 
